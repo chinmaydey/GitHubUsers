@@ -8,7 +8,7 @@
 - [User Details](https://api.github.com/users/chinmaydey)
 - [Followers Details](https://api.github.com/users/chinmaydey/followers)
 - [Current rate](https://api.github.com/rate_limit)
--   
+
 ## Auth0 - For Authentication as Service
 
 - [URL](https://auth0.com/)
